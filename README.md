@@ -11,8 +11,14 @@
 > for one user. Please implement a reactive search that will filter through the displayed elements based on page title 
 > and space. We have included a design located in /src/assets/designs for the search bar.
 > 
-> You have two weeks to complete this assignment. Please submit by {{date}}. Good luck!
+> You have two weeks to complete this assignment. Please submit by Friday, March 29, 2019. Good luck!
 >
+
+## Helpful Resources
+* VueJS Docs: https://vuejs.org/
+* JavaScript: There are many resources out there. MDN (https://developer.mozilla.org/en-US/) is one of our go-tos. freeCodeCamp offers a lot of material. We recommend just going through their Basic Javascript curriculum (https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript).
+* Fareeha Ahmed
+
 
 ## Build Setup
 
