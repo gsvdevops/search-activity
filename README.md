@@ -11,7 +11,7 @@
 > for one user. Please implement a reactive search that will filter through the displayed elements based on page title 
 > and space. We have included a design located in /src/assets/designs for the search bar.
 > 
-> You have two weeks to complete this assignment. Please submit by {{date}}. Good luck!
+> You have two weeks to complete this assignment. Please submit by Friday, March 29, 2019. Good luck!
 >
 
 ## Helpful Resources
